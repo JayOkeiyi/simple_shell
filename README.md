@@ -74,7 +74,7 @@ $
 
 ### Environment
 
-Upon invocation, **hsh** receives and copies the environment of the parent process in which it was executed. This environment is an array of *name-value* strings describing variables in the format *NAME=VALUE*. A few key environmental variables are:
+Upon invocation, **hsh** receives and, copies the environment of the parent process in which it was executed. This environment is an array of *name-value* strings describing variables in the format *NAME=VALUE*. A few key environmental variables are:
 
 #### HOME
 The home directory of the current user and the default directory argument for the **cd** builtin command.
@@ -330,6 +330,5 @@ $
 👤 **EMMANUEL OLORUNMOLU**
 
 - GitHub: [@techmoji](https://github.com/techmoji)
-- LinkedIn: [LinkedIn](linkedin.com/in/)
-- Twitter: [@](https://twitter.com/)
+- LinkedIn: [LinkedIn](linkedin.com/in/emmanuel-george-aa84a4246)
 
