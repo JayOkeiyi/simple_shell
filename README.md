@@ -320,16 +320,16 @@ $
 
 ## Authors ##
 
-👤 **OBED EHONEAH**
+👤 **JAMES OKEIYI**
 
-- GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
-- Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
-- Blog: [Personal Blog](https://blog.ehoneahobed.com)
+- GitHub: [@jayokeiyi](https://github.com/jayokeiyi)
+- Twitter: [@jayokeiyi](https://twitter.com/jayokeiyi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/jayokeiyi)
+- Blog: [Personal Blog](https://jamesokeiyi.com/blog)
 
-👤 **JUSTICE MENSAH BLAY MEWUBE**
+👤 **EMMANUEL OLORUNMOLU**
 
-- GitHub: [@JUSTICEMENSAH-ALX](https://github.com/JUSTICEMENSAH-ALX)
-- LinkedIn: [LinkedIn](linkedin.com/in/mensah-blay-justice)
-- Twitter: [@JUSTICEMBLAY](https://twitter.com/justicemensahblaymewube)
+- GitHub: [@techmoji](https://github.com/techmoji)
+- LinkedIn: [LinkedIn](linkedin.com/in/)
+- Twitter: [@](https://twitter.com/)
 
